@@ -1,0 +1,25 @@
+.text-center {
+  text-align: center;
+}
+
+.header-bg {
+  background-color: #565656;
+}
+
+.footer-bg {
+  background-color: #f4f4f4;
+}
+
+.font-sm {
+  font-size: small;
+}
+
+.cover-bg {
+  background-position: center;
+  background-image: url(../assets/slika2.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+body {
+  background-color: #f3f3f3bf;
+}
